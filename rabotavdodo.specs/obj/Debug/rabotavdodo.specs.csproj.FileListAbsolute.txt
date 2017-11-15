@@ -1,0 +1,15 @@
+c:\users\gone\documents\visual studio 2012\Projects\rabotavdodo.specs\rabotavdodo.specs\bin\Debug\Default.srprofile
+c:\users\gone\documents\visual studio 2012\Projects\rabotavdodo.specs\rabotavdodo.specs\bin\Debug\rabotavdodo.specs.dll.config
+c:\users\gone\documents\visual studio 2012\Projects\rabotavdodo.specs\rabotavdodo.specs\bin\Debug\rabotavdodo.specs.dll
+c:\users\gone\documents\visual studio 2012\Projects\rabotavdodo.specs\rabotavdodo.specs\bin\Debug\rabotavdodo.specs.pdb
+c:\users\gone\documents\visual studio 2012\Projects\rabotavdodo.specs\rabotavdodo.specs\bin\Debug\Newtonsoft.Json.dll
+c:\users\gone\documents\visual studio 2012\Projects\rabotavdodo.specs\rabotavdodo.specs\bin\Debug\rabotavdodo.dll
+c:\users\gone\documents\visual studio 2012\Projects\rabotavdodo.specs\rabotavdodo.specs\bin\Debug\SpecRun.SpecFlowPlugin.dll
+c:\users\gone\documents\visual studio 2012\Projects\rabotavdodo.specs\rabotavdodo.specs\bin\Debug\TechTalk.SpecFlow.dll
+c:\users\gone\documents\visual studio 2012\Projects\rabotavdodo.specs\rabotavdodo.specs\bin\Debug\TechTalk.SpecRun.Common.dll
+c:\users\gone\documents\visual studio 2012\Projects\rabotavdodo.specs\rabotavdodo.specs\bin\Debug\TechTalk.SpecRun.dll
+c:\users\gone\documents\visual studio 2012\Projects\rabotavdodo.specs\rabotavdodo.specs\bin\Debug\rabotavdodo.pdb
+c:\users\gone\documents\visual studio 2012\Projects\rabotavdodo.specs\rabotavdodo.specs\bin\Debug\Newtonsoft.Json.xml
+c:\users\gone\documents\visual studio 2012\Projects\rabotavdodo.specs\rabotavdodo.specs\obj\Debug\rabotavdodo.specs.csprojResolveAssemblyReference.cache
+c:\users\gone\documents\visual studio 2012\Projects\rabotavdodo.specs\rabotavdodo.specs\obj\Debug\rabotavdodo.specs.dll
+c:\users\gone\documents\visual studio 2012\Projects\rabotavdodo.specs\rabotavdodo.specs\obj\Debug\rabotavdodo.specs.pdb
